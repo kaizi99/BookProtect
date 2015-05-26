@@ -1,0 +1,7 @@
+name: BookPlugin
+version: INDEV
+main: de.kaizi99.BookKey.Main
+
+commands:
+  test:
+    usage: /test
